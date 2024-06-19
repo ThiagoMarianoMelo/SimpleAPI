@@ -1,0 +1,8 @@
+﻿################################################################################
+# Este arquivo .gitignore foi criado automaticamente pelo Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/TestProject/FileContentIndex
+/.vs/TestProject/v17/.suo
+/.vs/TestProject/v17/DocumentLayout.json
+/TestProject.Domain/obj/Debug/net8.0/TestProject.Domain.sourcelink.json
