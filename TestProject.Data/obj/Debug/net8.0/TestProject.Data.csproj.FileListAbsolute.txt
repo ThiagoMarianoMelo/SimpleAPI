@@ -1,0 +1,17 @@
+C:\Users\thiago.mariano\source\repos\TestProject\TestProject.Data\obj\Debug\net8.0\TestProject.Data.csproj.AssemblyReference.cache
+C:\Users\thiago.mariano\source\repos\TestProject\TestProject.Data\obj\Debug\net8.0\TestProject.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thiago.mariano\source\repos\TestProject\TestProject.Data\obj\Debug\net8.0\TestProject.Data.AssemblyInfoInputs.cache
+C:\Users\thiago.mariano\source\repos\TestProject\TestProject.Data\obj\Debug\net8.0\TestProject.Data.AssemblyInfo.cs
+C:\Users\thiago.mariano\source\repos\TestProject\TestProject.Data\obj\Debug\net8.0\TestProject.Data.csproj.CoreCompileInputs.cache
+C:\Users\thiago.mariano\source\repos\TestProject\TestProject.Data\bin\Debug\net8.0\TestProject.Data.deps.json
+C:\Users\thiago.mariano\source\repos\TestProject\TestProject.Data\bin\Debug\net8.0\TestProject.Data.dll
+C:\Users\thiago.mariano\source\repos\TestProject\TestProject.Data\bin\Debug\net8.0\TestProject.Data.pdb
+C:\Users\thiago.mariano\source\repos\TestProject\TestProject.Data\bin\Debug\net8.0\TestProject.Domain.dll
+C:\Users\thiago.mariano\source\repos\TestProject\TestProject.Data\bin\Debug\net8.0\TestProject.Domain.pdb
+C:\Users\thiago.mariano\source\repos\TestProject\TestProject.Data\obj\Debug\net8.0\TestProj.3864C5CA.Up2Date
+C:\Users\thiago.mariano\source\repos\TestProject\TestProject.Data\obj\Debug\net8.0\TestProject.Data.dll
+C:\Users\thiago.mariano\source\repos\TestProject\TestProject.Data\obj\Debug\net8.0\refint\TestProject.Data.dll
+C:\Users\thiago.mariano\source\repos\TestProject\TestProject.Data\obj\Debug\net8.0\TestProject.Data.pdb
+C:\Users\thiago.mariano\source\repos\TestProject\TestProject.Data\obj\Debug\net8.0\ref\TestProject.Data.dll
+C:\Users\thiago.mariano\source\repos\TestProject\TestProject.Data\bin\Debug\net8.0\TestProject.Data.runtimeconfig.json
+C:\Users\thiago.mariano\source\repos\TestProject\TestProject.Data\obj\Debug\net8.0\TestProject.Data.genruntimeconfig.cache

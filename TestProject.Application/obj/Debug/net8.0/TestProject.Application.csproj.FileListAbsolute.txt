@@ -1,0 +1,15 @@
+C:\Users\thiago.mariano\source\repos\TestProject\TestProject.Application\obj\Debug\net8.0\TestProject.Application.csproj.AssemblyReference.cache
+C:\Users\thiago.mariano\source\repos\TestProject\TestProject.Application\obj\Debug\net8.0\TestProject.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thiago.mariano\source\repos\TestProject\TestProject.Application\obj\Debug\net8.0\TestProject.Application.AssemblyInfoInputs.cache
+C:\Users\thiago.mariano\source\repos\TestProject\TestProject.Application\obj\Debug\net8.0\TestProject.Application.AssemblyInfo.cs
+C:\Users\thiago.mariano\source\repos\TestProject\TestProject.Application\obj\Debug\net8.0\TestProject.Application.csproj.CoreCompileInputs.cache
+C:\Users\thiago.mariano\source\repos\TestProject\TestProject.Application\bin\Debug\net8.0\TestProject.Application.deps.json
+C:\Users\thiago.mariano\source\repos\TestProject\TestProject.Application\bin\Debug\net8.0\TestProject.Application.dll
+C:\Users\thiago.mariano\source\repos\TestProject\TestProject.Application\bin\Debug\net8.0\TestProject.Application.pdb
+C:\Users\thiago.mariano\source\repos\TestProject\TestProject.Application\bin\Debug\net8.0\TestProject.Domain.dll
+C:\Users\thiago.mariano\source\repos\TestProject\TestProject.Application\bin\Debug\net8.0\TestProject.Domain.pdb
+C:\Users\thiago.mariano\source\repos\TestProject\TestProject.Application\obj\Debug\net8.0\TestProj.1B01BB47.Up2Date
+C:\Users\thiago.mariano\source\repos\TestProject\TestProject.Application\obj\Debug\net8.0\TestProject.Application.dll
+C:\Users\thiago.mariano\source\repos\TestProject\TestProject.Application\obj\Debug\net8.0\refint\TestProject.Application.dll
+C:\Users\thiago.mariano\source\repos\TestProject\TestProject.Application\obj\Debug\net8.0\TestProject.Application.pdb
+C:\Users\thiago.mariano\source\repos\TestProject\TestProject.Application\obj\Debug\net8.0\ref\TestProject.Application.dll
